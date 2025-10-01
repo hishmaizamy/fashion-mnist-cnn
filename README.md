@@ -19,7 +19,7 @@ https://colab.research.google.com/github/hishmaizamy/fashion-mnist-cnn/blob/main
 ![Training](training_history.png.png)
 
 ### Sample Predictions
-![Predictions](sample_predictions.png)
+![Predictions](sample_predictions.png.png)
 
 ### Full Metrics
 See: [classification_report.txt](classification_report.txt)
@@ -30,6 +30,7 @@ See: [classification_report.txt](classification_report.txt)
 - `classification_report.txt` – Per-class precision/recall
 
 - `requirements.txt` – Dependencies
+
 
 
 
