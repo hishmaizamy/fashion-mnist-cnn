@@ -8,7 +8,7 @@ A Convolutional Neural Network built with **TensorFlow/Keras** to classify fashi
 - **Validation**: Confusion matrix, per-class metrics, sample predictions
 
 ##  Run in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hishmaizamy/fashion-mnist-cnn/blob/main/fashion_mnist_cnn.ipynb)
+https://colab.research.google.com/github/hishmaizamy/fashion-mnist-cnn/blob/main/fashion_mnist_cnn.ipynb
 
 ##  Outputs
 
@@ -28,4 +28,5 @@ See: [classification_report.txt](classification_report.txt)
 - `fashion_mnist_cnn.ipynb` – Full code and outputs
 - `*.png` – Visual results
 - `classification_report.txt` – Per-class precision/recall
+
 - `requirements.txt` – Dependencies
