@@ -16,7 +16,7 @@ https://colab.research.google.com/github/hishmaizamy/fashion-mnist-cnn/blob/main
 ![Confusion Matrix](confusion_matrix.png.png)
 
 ### Training History
-![Training](training_history.png)
+![Training](training_history.png.png)
 
 ### Sample Predictions
 ![Predictions](sample_predictions.png)
@@ -30,6 +30,7 @@ See: [classification_report.txt](classification_report.txt)
 - `classification_report.txt` – Per-class precision/recall
 
 - `requirements.txt` – Dependencies
+
 
 
 
