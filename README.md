@@ -1,0 +1,31 @@
+# Fashion-MNIST CNN Classifier
+
+A Convolutional Neural Network built with **TensorFlow/Keras** to classify fashion images.
+
+## Results
+- **Test Accuracy**: ~89%
+- **Techniques**: Data Augmentation, BatchNorm, Dropout
+- **Validation**: Confusion matrix, per-class metrics, sample predictions
+
+##  Run in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hishmaizamy/fashion-mnist-cnn/blob/main/fashion_mnist_cnn.ipynb)
+
+##  Outputs
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Training History
+![Training](training_history.png)
+
+### Sample Predictions
+![Predictions](sample_predictions.png)
+
+### Full Metrics
+See: [classification_report.txt](classification_report.txt)
+
+## Files
+- `fashion_mnist_cnn.ipynb` – Full code and outputs
+- `*.png` – Visual results
+- `classification_report.txt` – Per-class precision/recall
+- `requirements.txt` – Dependencies
