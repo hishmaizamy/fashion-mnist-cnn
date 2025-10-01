@@ -13,7 +13,7 @@ https://colab.research.google.com/github/hishmaizamy/fashion-mnist-cnn/blob/main
 
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)confusion_matrix.png.png
+![Confusion Matrix](confusion_matrix.png)
 
 ### Training History
 ![Training](training_history.png)
@@ -30,5 +30,6 @@ See: [classification_report.txt](classification_report.txt)
 - `classification_report.txt` – Per-class precision/recall
 
 - `requirements.txt` – Dependencies
+
 
 
